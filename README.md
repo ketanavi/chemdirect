@@ -1,2 +1,2 @@
 # chemdirect
-ChemDIrect
+ChemDirect
